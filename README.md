@@ -852,6 +852,7 @@ Here are some companies/projects using Swagger Codegen in production. To add you
 - [Flat](https://flat.io)
 - [Finder](http://en.finder.pl/)
 - [FH Münster - University of Applied Sciences](http://www.fh-muenster.de)
+- [Form³ Financial Cloud](https://form3.tech)
 - [Fotition](https://www.fotition.com/)
 - [Gear Zero Network](https://www.gearzero.ca)
 - [Germin8](http://www.germin8.com)
